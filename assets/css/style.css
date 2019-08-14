@@ -1,0 +1,136 @@
+body {
+  background-image: url(../images/background.png);
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+  background-color: #ffffff;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+  margin-right: 25%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+li {
+  height: 100%;
+  float: right;
+}
+
+li a {
+  display: inline-block;
+  color: #dddddd;
+  text-align: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-decoration: none;
+  height: 100%;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+.clearfix {
+  overflow: auto;
+}
+
+.name {
+  display: block;
+  margin-left: 16%;
+  text-align: center;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  float: left;
+  padding-bottom: 3px;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.inline {
+  display: block;
+  margin-top: 2%;
+  margin-left: 500px;
+  margin-bottom: 24px;
+}
+
+img {
+  display: block;
+  width: 369px;
+  height: auto;
+  border: 1px solid black;
+}
+
+.wbackground {
+      background-color: #ffffff;
+    width: 960px;
+    margin: 0 auto;
+}
+/*.name{
+    background-color: #4aaaa5;
+    float: left;
+    display: block;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+  li {
+    float: right;
+    padding-bottom: none;
+    height: 100%;
+  }
+
+  li a {
+    display: block;
+    color: #dddddd;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    height: 100%;
+
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+
+body {
+    background-image: url(../images/background.png);
+    font-family: 'Roboto', sans-serif;
+}
+
+div.white {
+    background-color: #ffffff;
+    width: 960px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    width: 369px;
+    height: auto;
+    border: 1px solid black;
+}
+
+p.float{
+
+}
+body {
+    background-color: red;
+}
