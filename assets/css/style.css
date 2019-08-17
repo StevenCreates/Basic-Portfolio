@@ -51,7 +51,7 @@ li a:hover {
 
 
 img {
-  display: block;
+  display: inline-block;
   width: 369px;
   height: auto;
   border: 1px solid black;
@@ -78,6 +78,9 @@ img {
 
 .p1 {
   display: inline-block;
+  position: absolute;
+  margin-top: 2em;
+  
 }
 
 .footer {
